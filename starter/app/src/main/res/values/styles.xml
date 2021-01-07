@@ -16,4 +16,30 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="LoginLabelStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="fontFamily">@font/rubik_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="LoginButton">
+        <item name="backgroundTint">@android:color/holo_blue_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="fontFamily">@font/droid_sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CreateAccountButton">
+        <item name="backgroundTint">@android:color/holo_blue_dark</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="fontFamily">@font/droid_sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
 </resources>
