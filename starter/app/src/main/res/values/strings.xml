@@ -21,7 +21,7 @@
     <string name="AddTitle">New shoe details</string>
     <string name="shoeName">Shoe name</string>
     <string name="hint_shoeName">Work shoes...</string>
-    <string name="labelBrand">Brand</string>
+    <string name="labelBrand">Company</string>
     <string name="inputBrand">Nike, Adidas, Puma, ...</string>
     <string name="labelSize">Shoe size</string>
     <string name="hintSize">42, 43, ...</string>

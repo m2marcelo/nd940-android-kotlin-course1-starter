@@ -26,7 +26,7 @@ class AddShoeFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_add_shoe, container, false)
-        binding.shoe = Shoe("", 0.0, "", "")
+        binding.shoe = Shoe("", "", "", "")
 
         val shoes = binding.shoe!!
 
