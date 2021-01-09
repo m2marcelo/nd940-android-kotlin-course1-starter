@@ -42,6 +42,15 @@
         <item name="android:textStyle">bold</item>
     </style>
 
+    <style name="CancelButton">
+        <item name="backgroundTint">@android:color/holo_red_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="fontFamily">@font/droid_sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
     <style name="TitleLabel">
         <item name="fontFamily">@font/rubik_light</item>
         <item name="android:textSize">@dimen/app_title</item>
