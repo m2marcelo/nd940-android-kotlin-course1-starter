@@ -49,8 +49,9 @@ class AddShoeFragment : Fragment() {
     private fun validShoeParams() : Boolean {
         if (binding.inputShoeName.text.isEmpty() ||
             binding.inputBrand.text.isEmpty() ||
-            binding.inputShoeSize.text.isEmpty())
-                return false
+            binding.inputShoeSize.text.isEmpty()) {
+            return false
+        }
 
         return true
     }
