@@ -26,6 +26,4 @@ class WelcomeFragment : Fragment() {
         )
         return binding.root
     }
-
-
 }
