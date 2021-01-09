@@ -15,4 +15,7 @@
     <string name="man_shoe">Man shoe</string>
     <string name="lets_start">Let\'s get started!</string>
     <string name="shoes_image">Shoes image</string>
+    <string name="how_to_label">How to use this app?</string>
+    <string name="instructions">We made this app very easy for you! There is just a single button in the next screen, it is an Add button. You just need to press it, fill all the data for the shoe that you want to store and it is all done! How easy was this? Then you can see your show stored in this app afterwards! So,  now it is time to use the app!</string>
+    <string name="ready">I am ready!</string>
 </resources>
