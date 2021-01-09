@@ -9,4 +9,9 @@
     <string name="hint_passwd">Type your password here</string>
     <string name="label_login">LOGIN</string>
     <string name="label_create_account">CREATE ACCOUNT</string>
+    <string name="greetings">Welcome!</string>
+    <string name="description">This is the place to you store your shoes and remember all important details about them! When you buy or get a new shoe, please add it here and have control on your belongs!</string>
+    <string name="woman_shoe">Woman shoe</string>
+    <string name="man_shoe">Man shoe</string>
+    <string name="lets_start">Let\'s get started!</string>
 </resources>
