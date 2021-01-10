@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".screens.WelcomeFragment">
 
-    <!-- TODO: Update blank fragment layout -->
+    <!--ConstraintLayout is used here due the same conditions on instructions, a lot can be added
+    here to have more appeal to the user-->
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

@@ -3,6 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
+
+    <!--ConstraintLayout is used here, but a linear layout would do the same work,
+    i left it here to keep the consistency with the add shoe layout, to avoid problems if the
+    complexity grows. -->
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">

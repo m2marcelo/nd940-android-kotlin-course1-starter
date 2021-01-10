@@ -10,7 +10,10 @@
             type="com.udacity.shoestore.models.Shoe" />
     </data>
 
-    <!-- TODO: Update blank fragment layout -->
+    <!--ConstraintLayout is used here because I expect this area to grow with more details about
+    the shoes, like images, price, where was bought, occasion, and so on, so with a lot to add,
+    constraint is a better option-->
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">

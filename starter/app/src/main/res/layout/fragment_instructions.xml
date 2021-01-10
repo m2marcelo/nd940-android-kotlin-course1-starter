@@ -3,7 +3,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- TODO: Update blank fragment layout -->
+    <!--ConstraintLayout in here, but it could be a LinearLayout also, the reason here is just to
+     make more flexible, in production apps, in here probably would be a video or more complex
+     instructions to be shown to the user. -->
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">

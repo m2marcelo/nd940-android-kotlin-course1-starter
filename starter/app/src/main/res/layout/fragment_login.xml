@@ -4,6 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".screens.LoginFragment">
 
+
+    <!--ConstraintLayout is also used here because I expected to have much more widgets to set,
+    like login with social media, or google accounts, so a lot of options could be here also -->
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
